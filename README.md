@@ -19,5 +19,11 @@ cannyフィルターの場合
 poetry run python ./hello_opencv_filter_python/filter_canny.py
 ```
 
+参考： https://qiita.com/mo256man/items/8a9bb7bb66e107fd7153
+mangaフィルターの場合
+
+```bash
+poetry run python ./hello_opencv_filter_python/filter_manga.py
+```
 
 
